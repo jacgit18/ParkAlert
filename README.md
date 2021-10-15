@@ -4,6 +4,11 @@
 
 - [Overview](#overview)
   - [Description](#description)
+- [Stack](#stack)
+  - [Languages](#languages)
+  - [Framework](#framework)
+- [System Design](#System Design)
+
 
 ## Overview
 
@@ -12,11 +17,26 @@
 Park Alert - The Future of Parking  
 A mobile platform that helps people alert each other of parking spots in their radius.
 
-![Alt text](docs/design/wireframes/views/Mentee-Mentor-Pathway-Commit-Flow.gif?raw=true "Account View")
-
-![Alt text](docs/design/wireframes/views/Pathway-Creation-Flow.gif?raw=true "Account View")
 
 
-![Alt text](docs/design/wireframes/views/Signup-Flow.gif?raw=true "Account View")
+## Stack
+
+### Languages
+
+- Dart
+
+### Framework
+
+- Flutter
+
+### System Design
+
+![Alt text](lib/component.png?raw=true "Systemm Design View")
+
+![Alt text](lib/component.png?raw=true "Systemm Design View")
+
+![Alt text](lib/component.png?raw=true "Systemm Design View")
+
+
 
 
