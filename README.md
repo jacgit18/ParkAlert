@@ -36,7 +36,7 @@ A mobile platform that helps people alert each other of parking spots in their r
 
 ![Alt text](lib/component.png?raw=true "Systemm Design View")
 
-![Alt text](lib/Deployment Diagram.png?raw=true "Systemm Design View")
+![Alt text](lib/deployment.png?raw=true "Systemm Design deplo View")
 
 ![Alt text](lib/component.png?raw=true "Systemm Design View")
 
