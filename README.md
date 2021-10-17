@@ -1,4 +1,4 @@
-# Parking Alert
+![Alt text](lib/park-alert.png?raw=true "Systemm Design View")
 
 ## Table Of Contents <!-- omit in toc -->
 
